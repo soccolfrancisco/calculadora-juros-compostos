@@ -1,0 +1,11 @@
+.grade {
+  padding: 10px;
+  margin: 5px;
+  border: 2px solid lightgrey;
+  border-radius: 15px;
+  font-size: medium;
+}
+
+.title {
+  padding: 50px;
+}
